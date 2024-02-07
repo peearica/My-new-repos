@@ -1,2 +1,2 @@
-https://zsonamaco.com/february/arte-contemporaneo/2024/parallel-activities/nasal-iic
+git clone https://github.com/numpy/numpy 
 # My-new-repos
